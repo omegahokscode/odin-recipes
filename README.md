@@ -10,4 +10,8 @@
 ## Page Link
  -[Link to my Recipe Website](https://omegahokscode.github.io/odin-recipes/)
 
+![pagemain](https://github.com/omegahokscode/odin-recipes/assets/157544874/8c91aa27-7c96-454f-aa35-754a3fe30282)
+![recipe](https://github.com/omegahokscode/odin-recipes/assets/157544874/d8678ff4-350b-43f8-8ed3-32bf21fe0737)
+
+
 By: OmegaHoksCode
