@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(236, 244, 248);
+}
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.img{
+    text-align: center;
+}
+
+.pizza-dough{
+    background-color: rgb(204, 217, 228);
+    text-align: center;
+}
+
+#ing,
+#steps {
+    background-color: rgba(196, 230, 252, 0.253);
+    
+}
+
+.ingredients, .steps {
+    background-color: rgba(98, 144, 175, 0.39);
+}

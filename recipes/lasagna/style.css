@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(247, 239, 218);
+}
+
+h1 {
+    text-align: center;
+}
+#red-lasagna{
+    background-color: rgba(141, 129, 92, 0.363);
+    text-align: center;
+}
+.ingredients, .steps{
+    background-color: rgba(128, 128, 42, 0.212);
+}
+
+#ing,
+#steps {
+    background-color: rgba(180, 156, 125, 0.438);
+    color: black;
+}
+.img{
+    text-align: center;
+}
+
+
+
+
