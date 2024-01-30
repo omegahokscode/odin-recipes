@@ -5,7 +5,7 @@
 ## Contents
  - **HTML:** The main file, index.html, outlines the basic structure of the webpage. I've utilized semantic tags to organize content effectively. With tags and elements to practice.
  - **CSS:** Within 'styles.css' you'll find CSS files where I've experimented with various styles and layouts to enhance the visual appeal of the webpage.
- **Images:** A folder with images to my website practice. 
+ - **Images:** A folder with images to my website practice. 
 
 ## Page Link
  -[Link to my Recipe Website](https://omegahokscode.github.io/odin-recipes/)
