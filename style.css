@@ -9,3 +9,29 @@ h1 {
    
 }
 /*Font family and background color added */
+
+/* Css added */
+.img {
+    margin-left: 10px;
+    }
+
+.container {
+    display: flex;
+    padding: 2%;
+    align-items: center;
+    text-align: left;
+}
+.des {
+    padding: 2%;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(220, 255, 227);
+    color: rgb(0, 0, 0);
+    transition: .5s;
+}
+.button:hover{
+    background-color: aqua;
+}

@@ -25,3 +25,18 @@ h1{
 .ingredients, .steps {
     background-color: rgba(98, 144, 175, 0.39);
 }
+
+/*Button css added*/
+button{
+    border-radius: 5px;
+    background-color: cadetblue;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    transition: .3s;
+}
+button:hover {
+    background-color: cornsilk;
+}
