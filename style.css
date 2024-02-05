@@ -35,3 +35,6 @@ h1 {
 .button:hover{
     background-color: aqua;
 }
+a {
+    text-decoration: none;
+}
